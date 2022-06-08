@@ -1,2 +1,3 @@
-# jogo_da_forca_python
-Jogo da forca desenvolvido em Python
+# Jogo da Forca
+
+Descrição e demo aqui.
