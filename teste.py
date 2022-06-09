@@ -1,7 +1,3 @@
-lista = 1
+listaTeste = 'abc'
 
-print(lista)
-
-del lista
-
-print(lista)
+print(listaTeste[0:len(listaTeste)])
